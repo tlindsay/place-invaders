@@ -27,8 +27,11 @@ a:visited {
 
 #fps-wrapper {
 	position:relative;
+	/* width: 100px; */
+	/* margin-left: 400px; */
 	top: -530px;
 	right: -240px;
+	scroll: hidden;
 }
 
 code {
